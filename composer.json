@@ -1,0 +1,11 @@
+{
+    "name": "ebcms/xss-clear",
+    "description": "php xss clear",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ebcms\\": "src/"
+        }
+    }
+}
